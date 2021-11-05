@@ -1,5 +1,5 @@
 package golib
 
-func test(name string) string {
+func Test(name string) string {
 	return name
 }
